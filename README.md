@@ -1,13 +1,13 @@
 # STAT 545A
 ## Assignment 1
 
-My name is Curtis Fox. This repository is for assignment 1 of the STAT 545A course I'm taking.
+My name is Curtis Fox, and this repository is for assignment 1 of the STAT 545A course I'm taking. It contains all files relevant to the assignment.
 
 The link to the main webpage for the course is here: [STAT 545A Main Webpage](http://stat545.com/)
 
 **About me**
 
-I am an undergraduate student in computer science and statistics. The following are my main academic interests:
+My name is Curtis Fox. I am an undergraduate student in computer science and statistics. The following are my main academic interests:
 
 * Machine Learning
 * Optimization
