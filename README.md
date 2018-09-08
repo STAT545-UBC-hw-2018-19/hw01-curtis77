@@ -7,7 +7,7 @@ The link to the main webpage for the course is here: [STAT 545A Main Webpage](ht
 
 **About me**
 
-My name is Curtis Fox. I am an undergraduate student in computer science and statistics. The following are my main academic interests:
+I am an undergraduate student in computer science and statistics. The following are my main academic interests:
 
 * Machine Learning
 * Optimization
