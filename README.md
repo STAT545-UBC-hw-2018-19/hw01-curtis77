@@ -18,9 +18,10 @@ The main reasons why I took this course were:
 1. To learn the tools used in the data science industry
 2. To further improve my R programming skills
 3. To help pursue my interest in becoming a data scientist
-
-
-
+ 
+ A quote by my favourite scientist, Alan Turing:
+ > A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.
+ 
 
 
 
