@@ -13,4 +13,14 @@ I am an undergraduate student in computer science and statistics. The following 
 * Optimization
 * Computer Science Theory
 
+The main reasons why I took this course were:
+
+1. To learn the tools used in the data science industry
+2. To further improve my R programming skills
+3. To help pursue my interest in becoming a data scientist
+
+
+
+
+
 
