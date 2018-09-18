@@ -1,0 +1,36 @@
+---
+title: "Dataset-Exploration"
+output:
+  html_document:
+    keep_md: yes
+    theme: cerulean
+    toc: yes
+  pdf_document:
+    toc: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Data read-in
+
+```{r}
+data("mtcars") # this dataset presents various features for 32 different cars 
+```
+
+## Data Exploration
+
+```{r}
+head(mtcars) # shows the first few rows of the dataset
+str(mtcars) # gives info about the variables in data
+ncol(mtcars) # outputs the number of columns (aka the number of features)
+nrow(mtcars) # outputs the number of rows (aka the number of data points)
+summary(mtcars) # summarizes the data
+?mtcars # gives more info about dataset
+mtcars$hp # outputs the horsepower for each datapoint
+var(mtcars$hp) # outputs the variance of car horsepowers
+plot(mtcars$wt, mtcars$hp, main = "Horsepower vs Weight", xlab = "Weight", ylab = "Horsepower") # plots the horsepower of the cars versus weight of the cars
+model = lm(mtcars$hp ~ mtcars$wt) # creates a linear regression model where horsepower is the response variable and weight is the explanatory variable
+summary(model) # prints a summary of model which includes the y-intercept = -1.821, the slope = 46.160, and the adjusted R-squared = 0.4151
+```
