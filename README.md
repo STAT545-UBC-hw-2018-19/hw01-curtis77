@@ -6,6 +6,8 @@ My name is Curtis Fox, and this repository is for assignment 1 of the STAT 545A 
 The link to the main webpage for the course is here: [STAT 545A Main Webpage](http://stat545.com/)
 
 **About me**
+![][profilepicture]
+
 
 I am an undergraduate student in computer science and statistics. The following are my main academic interests:
 
