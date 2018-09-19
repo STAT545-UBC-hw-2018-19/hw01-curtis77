@@ -1,6 +1,12 @@
 # STAT 545A
 ## Assignment 1
 
+Repository Guide:
+* This is the readme file
+* Any file starting with "hw1-Dataset-Exploration" refers to the data exploration portion of our assignment, in varying formats
+* The hw01-instructions file contains instructions for this assignment 
+* The "profilepicture" file is the photo used in the readme file
+
 My name is Curtis Fox, and this repository is for assignment 1 of the STAT 545A course I'm taking. It contains all files relevant to the assignment.
 
 The link to the main webpage for the course is here: [STAT 545A Main Webpage](http://stat545.com/)
