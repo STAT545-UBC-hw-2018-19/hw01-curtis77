@@ -7,7 +7,7 @@ The link to the main webpage for the course is here: [STAT 545A Main Webpage](ht
 
 **About me**
 
-![Photo of Me][https://github.com/STAT545-UBC-students/hw01-curtis77/blob/master/profilepicture.jpg]
+![Photo of Me](profilepicture.jpg)
 
 I am an undergraduate student in computer science and statistics. The following are my main academic interests:
 
